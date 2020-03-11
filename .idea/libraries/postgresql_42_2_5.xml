@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="postgresql-42.2.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../lab3-4-5/instal/postgresql-42.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../sqlite-jdbc-3.21.0.1-javadoc (1).jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
